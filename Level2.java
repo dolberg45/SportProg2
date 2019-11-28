@@ -1,6 +1,6 @@
 package com.company;
 
-public class Speed {
+public class Level1 {
 
     public static int odometer(int [] oksana) {
         int distance = 0;
